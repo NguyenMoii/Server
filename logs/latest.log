@@ -1,29 +1,19 @@
-[13:35:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[13:35:56] [ServerMain/INFO]: Loaded 1470 recipes
-[13:35:57] [ServerMain/INFO]: Loaded 1584 advancements
-[13:35:57] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[13:35:57] [Server thread/INFO]: Loading properties
-[13:35:57] [Server thread/INFO]: Default game type: SURVIVAL
-[13:35:57] [Server thread/INFO]: Generating keypair
-[13:35:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:35:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:35:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:35:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:35:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:35:57] [Server thread/INFO]: Preparing level "world"
-[13:35:58] [Server thread/INFO]: Loading 0 persistent chunks...
-[13:35:58] [Server thread/INFO]: Preparing spawn area: 100%
-[13:35:58] [Server thread/INFO]: Time elapsed: 13 ms
-[13:35:58] [Server thread/INFO]: Done (0.637s)! For help, type "help"
-[13:36:12] [Server thread/INFO]: NguyenMoi[/127.203.164.229:42753] logged in with entity id 41 at (-100.46550556301987, 129.02442408821366, -64.57040446791972)
-[13:36:12] [Server thread/INFO]: NguyenMoi joined the game
-[13:36:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[13:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
-[13:36:37] [Server thread/INFO]: sucnhaude[/127.122.205.33:50919] logged in with entity id 259 at (119.77851596705, 67.0, 634.2569817699407)
-[13:36:37] [Server thread/INFO]: sucnhaude joined the game
-[13:36:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
-[13:36:55] [Server thread/INFO]: Habibi[/127.66.146.206:59843] logged in with entity id 411 at (-666.5802592673875, 67.17675927506424, -442.68111510549096)
-[13:36:55] [Server thread/INFO]: Habibi joined the game
-[13:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8331ms or 166 ticks behind
-[13:37:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6518ms or 130 ticks behind
-[13:41:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3445ms or 68 ticks behind
+[00:02:34] [Server thread/INFO]: kiieuwo[/127.66.16.249:33501] logged in with entity id 9757 at (1640.6038185683644, 88.0, -1440.5489176940116)
+[00:02:34] [Server thread/INFO]: kiieuwo joined the game
+[00:07:21] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1586, y=-48, z=-1559} is{x=1587, y=-47, z=-1557}
+[00:07:22] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1585, y=-48, z=-1559} is{x=1585, y=-48, z=-1558}
+[00:07:22] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1585, y=-48, z=-1559} is{x=1585, y=-48, z=-1558}
+[00:07:50] [Server thread/INFO]: kiieuwo lost connection: Timed out
+[00:07:50] [Server thread/INFO]: kiieuwo left the game
+[00:07:50] [Server thread/WARN]: handleDisconnection() called twice
+[00:08:18] [Server thread/INFO]: Stopping the server
+[00:08:18] [Server thread/INFO]: Stopping server
+[00:08:18] [Server thread/INFO]: Saving players
+[00:08:18] [Server thread/INFO]: Saving worlds
+[00:08:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:08:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:08:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:08:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:08:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:08:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:08:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
