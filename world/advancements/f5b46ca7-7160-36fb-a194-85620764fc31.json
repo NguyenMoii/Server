@@ -1665,6 +1665,7 @@
       "minecraft:hoglin": "2026-02-24 13:56:46 +0000",
       "minecraft:breeze": "2026-03-04 13:13:01 +0000",
       "minecraft:vindicator": "2026-03-15 03:52:42 +0000",
+      "minecraft:creaking": "2026-03-15 10:19:19 +0000",
       "minecraft:magma_cube": "2026-03-09 09:13:07 +0000",
       "minecraft:spider": "2026-02-19 03:36:20 +0000",
       "minecraft:piglin_brute": "2026-03-09 09:09:35 +0000",
@@ -5214,6 +5215,462 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2026-03-15 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-03-15 10:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-03-15 10:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_black_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/black_bundle": {
+    "criteria": {
+      "has_black_dye": "2026-03-15 13:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2026-03-15 13:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-03-15 13:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-03-15 13:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-03-15 13:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-03-15 13:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-03-15 13:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_light_gray_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_gray_bundle": {
+    "criteria": {
+      "has_light_gray_dye": "2026-03-15 13:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2026-03-15 13:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_gray_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2026-03-15 13:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/gray_bundle": {
+    "criteria": {
+      "has_gray_dye": "2026-03-15 13:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2026-03-15 13:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/yellow_bundle": {
+    "criteria": {
+      "has_yellow_dye": "2026-03-15 13:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_yellow_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/orange_bundle": {
+    "criteria": {
+      "has_orange_dye": "2026-03-15 13:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2026-03-15 13:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_orange_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-03-15 13:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-03-15 13:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2026-03-15 13:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/green_bundle": {
+    "criteria": {
+      "has_green_dye": "2026-03-15 13:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_green_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lime_bundle": {
+    "criteria": {
+      "has_lime_dye": "2026-03-15 13:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2026-03-15 13:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_lime_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_cyan_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2026-03-15 13:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cyan_bundle": {
+    "criteria": {
+      "has_cyan_dye": "2026-03-15 13:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_purple_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2026-03-15 13:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/purple_bundle": {
+    "criteria": {
+      "has_purple_dye": "2026-03-15 13:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2026-03-15 13:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/magenta_bundle": {
+    "criteria": {
+      "has_magenta_dye": "2026-03-15 13:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_magenta_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-03-15 13:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-03-15 15:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2026-03-15 15:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2026-03-15 15:19:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2026-03-15 15:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2026-03-15 15:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-03-15 15:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-03-15 15:17:08 +0000"
     },
     "done": true
   },

@@ -1,34 +1,162 @@
-[09:17:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[09:17:34] [ServerMain/INFO]: Loaded 1470 recipes
-[09:17:34] [ServerMain/INFO]: Loaded 1584 advancements
-[09:17:34] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[09:17:34] [Server thread/INFO]: Loading properties
-[09:17:34] [Server thread/INFO]: Default game type: SURVIVAL
-[09:17:34] [Server thread/INFO]: Generating keypair
-[09:17:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:17:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:17:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:17:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:17:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:17:34] [Server thread/INFO]: Preparing level "world"
-[09:17:35] [Server thread/INFO]: Loading 0 persistent chunks...
-[09:17:35] [Server thread/INFO]: Preparing spawn area: 100%
-[09:17:35] [Server thread/INFO]: Time elapsed: 13 ms
-[09:17:35] [Server thread/INFO]: Done (0.595s)! For help, type "help"
-[09:17:46] [Server thread/INFO]: kiieuwo[/127.66.16.249:49211] logged in with entity id 62 at (-804.8662769816802, 183.02442408821366, -551.6999999880791)
-[09:17:46] [Server thread/INFO]: kiieuwo joined the game
-[09:18:19] [Server thread/WARN]: kiieuwo was kicked for floating too long!
-[09:18:19] [Server thread/INFO]: kiieuwo lost connection: Flying is not enabled on this server
-[09:18:19] [Server thread/INFO]: kiieuwo left the game
-[09:18:19] [Server thread/WARN]: handleDisconnection() called twice
-[09:18:23] [Server thread/INFO]: Stopping the server
-[09:18:23] [Server thread/INFO]: Stopping server
-[09:18:23] [Server thread/INFO]: Saving players
-[09:18:23] [Server thread/INFO]: Saving worlds
-[09:18:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:18:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:18:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:18:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:18:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:18:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:18:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:41:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:41:12] [ServerMain/INFO]: Loaded 1470 recipes
+[13:41:12] [ServerMain/INFO]: Loaded 1584 advancements
+[13:41:12] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[13:41:12] [Server thread/INFO]: Loading properties
+[13:41:12] [Server thread/INFO]: Default game type: SURVIVAL
+[13:41:12] [Server thread/INFO]: Generating keypair
+[13:41:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:41:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:41:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:41:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:41:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:41:13] [Server thread/INFO]: Preparing level "world"
+[13:41:13] [Server thread/INFO]: Loading 0 persistent chunks...
+[13:41:13] [Server thread/INFO]: Preparing spawn area: 100%
+[13:41:13] [Server thread/INFO]: Time elapsed: 13 ms
+[13:41:13] [Server thread/INFO]: Done (0.574s)! For help, type "help"
+[13:41:22] [Server thread/INFO]: sucnhaude[/127.122.205.33:46469] logged in with entity id 53 at (-466.6777881497711, -16.0, -354.7675633757913)
+[13:41:22] [Server thread/INFO]: sucnhaude joined the game
+[13:42:05] [Server thread/INFO]: Habibi[/127.66.146.206:44911] logged in with entity id 361 at (-713.8267493038867, 65.00133597911214, -469.1540057821665)
+[13:42:05] [Server thread/INFO]: Habibi joined the game
+[13:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[13:42:22] [Server thread/INFO]: [Not Secure] <Habibi> sucnhaude
+[13:42:27] [Server thread/INFO]: kiieuwo[/127.66.16.249:36009] logged in with entity id 881 at (-798.7122740914589, 63.0, -698.0787235826704)
+[13:42:27] [Server thread/INFO]: kiieuwo joined the game
+[13:42:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[13:42:37] [Server thread/INFO]: Habibi drowned
+[13:44:09] [Server thread/INFO]: [Not Secure] <kiieuwo> manh oi
+[13:44:11] [Server thread/INFO]: [Not Secure] <kiieuwo> m o dau
+[13:45:45] [Server thread/INFO]: sucnhaude tried to swim in lava
+[13:45:58] [Server thread/INFO]: [Not Secure] <kiieuwo> e
+[13:46:31] [Server thread/INFO]: kiieuwo fell from a high place
+[13:47:11] [Server thread/INFO]: [Not Secure] <sucnhaude> mạnh ei
+[13:47:20] [Server thread/INFO]: [Not Secure] <sucnhaude> quả farm chất kh b
+[13:47:45] [Server thread/INFO]: [Not Secure] <Habibi> chat b
+[13:47:51] [Server thread/INFO]: [Not Secure] <sucnhaude> activate ddi
+[13:47:54] [Server thread/INFO]: [Not Secure] <sucnhaude> thử cho biết
+[13:47:54] [Server thread/INFO]: [Not Secure] <kiieuwo> ccho manh co lay da ko ?
+[13:47:57] [Server thread/INFO]: [Not Secure] <Habibi> co
+[13:48:03] [Server thread/INFO]: [Not Secure] <Habibi> chi oanh dau
+[13:49:33] [Server thread/INFO]: [Not Secure] <kiieuwo> :)
+[13:52:53] [Server thread/INFO]: kiieuwo lost connection: Disconnected
+[13:52:53] [Server thread/INFO]: kiieuwo left the game
+[13:58:35] [Server thread/INFO]: NguyenMoi[/127.203.164.229:53799] logged in with entity id 7005 at (-97.5, 71.0, -56.979632607879466)
+[13:58:35] [Server thread/INFO]: NguyenMoi joined the game
+[13:58:46] [Server thread/INFO]: [Not Secure] <sucnhaude> ĐA
+[13:58:48] [Server thread/INFO]: [Not Secure] <sucnhaude> Rảnh o
+[13:58:49] [Server thread/INFO]: [Not Secure] <NguyenMoi> ?
+[13:59:46] [Server thread/INFO]: [Not Secure] <sucnhaude> rảnh kh
+[13:59:49] [Server thread/INFO]: [Not Secure] <NguyenMoi> lmj
+[13:59:50] [Server thread/INFO]: [Not Secure] <sucnhaude> xây hộ cái máy farm gỗ
+[13:59:55] [Server thread/INFO]: [Not Secure] <sucnhaude> kh thì đào hộ tí gỗ
+[14:00:01] [Server thread/INFO]: [Not Secure] <sucnhaude> t làm cái super melter
+[14:01:06] [Server thread/INFO]: [Not Secure] <NguyenMoi> gui vid
+[14:03:33] [Server thread/INFO]: NguyenMoi lost connection: Disconnected
+[14:03:33] [Server thread/INFO]: NguyenMoi left the game
+[14:04:18] [Server thread/INFO]: NguyenMoi[/127.164.72.70:40305] logged in with entity id 8860 at (-704.8454007323597, 66.0, -546.2859432415657)
+[14:04:18] [Server thread/INFO]: NguyenMoi joined the game
+[14:07:41] [Server thread/INFO]: Habibi was slain by Zombie
+[14:11:43] [Server thread/INFO]: sucnhaude fell from a high place
+[14:15:23] [Server thread/INFO]: Villager dcx['Villager'/452, l='ServerLevel[world]', x=-710.46, y=62.00, z=-544.66] was struck by lightning chk['Lightning Bolt'/11460, l='ServerLevel[world]', x=-707.50, y=63.00, z=-544.50].
+[14:15:23] [Server thread/INFO]: Villager dcx['Villager'/400, l='ServerLevel[world]', x=-709.00, y=62.00, z=-543.48] was struck by lightning chk['Lightning Bolt'/11460, l='ServerLevel[world]', x=-707.50, y=63.00, z=-544.50].
+[14:15:23] [Server thread/INFO]: Villager dcx['Villager'/393, l='ServerLevel[world]', x=-708.39, y=62.00, z=-543.83] was struck by lightning chk['Lightning Bolt'/11460, l='ServerLevel[world]', x=-707.50, y=63.00, z=-544.50].
+[14:15:23] [Server thread/INFO]: Villager dcx['Villager'/417, l='ServerLevel[world]', x=-708.30, y=62.00, z=-541.49] was struck by lightning chk['Lightning Bolt'/11460, l='ServerLevel[world]', x=-707.50, y=63.00, z=-544.50].
+[14:18:38] [Server thread/INFO]: [Not Secure] <NguyenMoi> co slime kh
+[14:18:46] [Server thread/INFO]: [Not Secure] <sucnhaude> xem trong rương í
+[14:18:50] [Server thread/INFO]: [Not Secure] <sucnhaude> trc t giết vài con
+[14:18:54] [Server thread/INFO]: [Not Secure] <sucnhaude> khbt còn kh
+[14:22:09] [Server thread/INFO]: [Not Secure] <Habibi> duc anh e
+[14:22:12] [Server thread/INFO]: [Not Secure] <NguyenMoi> ha
+[14:22:16] [Server thread/INFO]: [Not Secure] <Habibi> tao tha it dan lang nhe
+[14:22:21] [Server thread/INFO]: [Not Secure] <sucnhaude> giết đi Mạnh
+[14:22:24] [Server thread/INFO]: [Not Secure] <Habibi> t muon dat cuu
+[14:22:24] [Server thread/INFO]: [Not Secure] <NguyenMoi> tha lm cai gi
+[14:22:26] [Server thread/INFO]: [Not Secure] <sucnhaude> epstein
+[14:22:36] [Server thread/INFO]: [Not Secure] <Habibi> t chuyen bon cuu sang nha moi
+[14:22:38] [Server thread/INFO]: [Not Secure] <NguyenMoi> co tre kh
+[14:22:55] [Server thread/INFO]: [Not Secure] <Habibi> khco
+[14:25:22] [Server thread/INFO]: [Not Secure] <NguyenMoi> luc ca nha con oanh cung kh co tre
+[14:25:38] [Server thread/INFO]: [Not Secure] <NguyenMoi> a day no trong o cau
+[14:26:16] [Server thread/INFO]: sucnhaude fell from a high place
+[14:27:09] [Server thread/INFO]: [Not Secure] <Habibi> deo gi co ca phu thuy the nay
+[14:27:35] [Server thread/INFO]: [Not Secure] <sucnhaude> mạnh ei
+[14:27:41] [Server thread/INFO]: [Not Secure] <sucnhaude> lên xem công trình kiến trúc của tôi bạn
+[14:27:47] [Server thread/INFO]: Villager dcx['Villager'/458, l='ServerLevel[world]', x=-707.49, y=63.00, z=-544.70] died, message: 'Villager was slain by Habibi'
+[14:27:47] [Server thread/INFO]: Villager dcx['Villager'/456, l='ServerLevel[world]', x=-707.49, y=63.00, z=-544.30] died, message: 'Villager was slain by Habibi'
+[14:27:54] [Server thread/INFO]: Habibi was killed by Witch using magic
+[14:28:09] [Server thread/INFO]: [Not Secure] <Habibi> tot
+[14:28:24] [Server thread/INFO]: [Not Secure] <sucnhaude> nhìn cái l gì đấy
+[14:28:25] [Server thread/INFO]: Habibi fell from a high place
+[14:28:27] [Server thread/INFO]: [Not Secure] <sucnhaude> ở đây mà
+[14:28:45] [Server thread/INFO]: [Not Secure] <sucnhaude> :) dcu m
+[14:28:47] [Server thread/INFO]: [Not Secure] <sucnhaude> nhốt no lại
+[14:28:51] [Server thread/INFO]: [Not Secure] <sucnhaude> con này để trade mà
+[14:29:44] [Server thread/INFO]: Villager dcx['Villager'/426, l='ServerLevel[world]', x=-715.43, y=62.00, z=-537.11] died, message: 'Villager was killed by Witch using magic'
+[14:29:50] [Server thread/INFO]: Villager dcx['Villager'/547, l='ServerLevel[world]', x=-719.62, y=62.00, z=-544.70] died, message: 'Villager was slain by Habibi'
+[14:31:31] [Server thread/INFO]: [Not Secure] <Habibi> day dau duc anh
+[14:31:37] [Server thread/INFO]: [Not Secure] <NguyenMoi> sao hoi tao
+[14:34:15] [Server thread/INFO]: Habibi drowned
+[14:34:18] [Server thread/INFO]: sucnhaude fell from a high place
+[14:34:26] [Server thread/INFO]: [Not Secure] <NguyenMoi> co sach unbreaking kh
+[14:35:37] [Server thread/INFO]: [Not Secure] <Habibi> chi dau
+[14:35:59] [Server thread/INFO]: sucnhaude lost connection: Disconnected
+[14:35:59] [Server thread/INFO]: sucnhaude left the game
+[14:40:13] [Server thread/INFO]: [Not Secure] <NguyenMoi> may cai hang o dau nhi
+[14:41:00] [Server thread/WARN]: Habibi moved too quickly! 16.38478299502981,-8.12979984267767,0.19719724880042122
+[14:49:46] [Server thread/INFO]: NguyenMoi fell from a high place
+[14:55:35] [Server thread/INFO]: Habibi lost connection: Disconnected
+[14:55:35] [Server thread/INFO]: Habibi left the game
+[15:00:17] [Server thread/INFO]: NguyenMoi lost connection: Disconnected
+[15:00:17] [Server thread/INFO]: NguyenMoi left the game
+[15:01:01] [Server thread/INFO]: sucnhaude[/127.122.205.33:58719] logged in with entity id 25867 at (-773.9076175785835, 182.0, -539.7286036714947)
+[15:01:01] [Server thread/INFO]: sucnhaude joined the game
+[15:07:55] [Server thread/INFO]: kiieuwo[/127.66.16.249:48993] logged in with entity id 28514 at (-793.4008068737008, 182.0, -549.316738849166)
+[15:07:55] [Server thread/INFO]: kiieuwo joined the game
+[15:17:30] [Server thread/INFO]: NguyenMoi[/127.164.72.70:35841] logged in with entity id 32059 at (-803.4861180230198, 182.0, -547.8770267698862)
+[15:17:30] [Server thread/INFO]: NguyenMoi joined the game
+[15:27:16] [Server thread/INFO]: [Not Secure] <sucnhaude> hi baby
+[15:27:28] [Server thread/INFO]: [Not Secure] <sucnhaude> xem cái máy farm của t đây
+[15:28:02] [Server thread/INFO]: [Not Secure] <sucnhaude> ra day
+[15:28:20] [Server thread/INFO]: [Not Secure] <NguyenMoi> full r
+[15:28:22] [Server thread/INFO]: [Not Secure] <NguyenMoi> de lmj
+[15:28:27] [Server thread/INFO]: kiieuwo lost connection: Timed out
+[15:28:27] [Server thread/INFO]: kiieuwo left the game
+[15:28:27] [Server thread/WARN]: handleDisconnection() called twice
+[15:29:23] [Server thread/INFO]: [Not Secure] <sucnhaude> hdong bon luon me
+[15:32:04] [Server thread/INFO]: [Not Secure] <sucnhaude> :)))???
+[15:32:09] [Server thread/INFO]: [Not Secure] <sucnhaude> m đựng xưng trong này làm mẹ gì
+[15:32:29] [Server thread/INFO]: [Not Secure] <NguyenMoi> s m lay me r
+[15:32:35] [Server thread/INFO]: [Not Secure] <sucnhaude> m ddwngj ddaya lamfj
+[15:32:40] [Server thread/INFO]: [Not Secure] <NguyenMoi> lam bot xuong
+[15:32:50] [Server thread/INFO]: [Not Secure] <sucnhaude> meos hieeur
+[15:36:04] [Server thread/INFO]: sucnhaude experienced kinetic energy
+[15:36:50] [Server thread/INFO]: [Not Secure] <sucnhaude> e
+[15:38:08] [Server thread/INFO]: sucnhaude was slain by Wither Skeleton
+[15:49:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-821, y=79, z=633} is{x=-798, y=83, z=632}
+[15:49:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-821, y=79, z=633} is{x=-798, y=83, z=631}
+[15:49:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-821, y=79, z=633} is{x=-798, y=83, z=631}
+[15:49:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-821, y=79, z=633} is{x=-798, y=83, z=631}
+[15:49:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-821, y=79, z=633} is{x=-798, y=83, z=631}
+[15:49:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-821, y=79, z=633} is{x=-798, y=83, z=631}
+[15:49:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-821, y=79, z=633} is{x=-798, y=83, z=631}
+[15:49:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-821, y=79, z=633} is{x=-798, y=83, z=631}
+[15:49:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-821, y=79, z=633} is{x=-798, y=83, z=631}
+[15:50:01] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-795, y=87, z=605} is{x=-795, y=87, z=606}
+[15:50:01] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-795, y=87, z=605} is{x=-795, y=87, z=606}
+[15:58:55] [Server thread/INFO]: sucnhaude tried to swim in lava
+[15:58:59] [Server thread/INFO]: sucnhaude lost connection: Disconnected
+[15:58:59] [Server thread/INFO]: sucnhaude left the game
+[15:59:36] [Server thread/INFO]: Stopping the server
+[15:59:36] [Server thread/INFO]: Stopping server
+[15:59:37] [Server thread/INFO]: Saving players
+[15:59:37] [Server thread/INFO]: NguyenMoi lost connection: Server closed
+[15:59:37] [Server thread/INFO]: NguyenMoi left the game
+[15:59:37] [Server thread/INFO]: Saving worlds
+[15:59:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:59:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:59:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:59:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:59:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:59:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:59:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
