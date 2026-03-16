@@ -5674,6 +5674,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/overoverkill": {
+    "criteria": {
+      "overoverkill": "2026-03-16 06:24:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2026-03-16 06:27:55 +0000"
@@ -5686,15 +5692,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/overoverkill": {
-    "criteria": {
-      "overoverkill": "2026-03-16 06:24:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2026-03-16 06:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2026-03-16 13:14:34 +0000"
     },
     "done": true
   },

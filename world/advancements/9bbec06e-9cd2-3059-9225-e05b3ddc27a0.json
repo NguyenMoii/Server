@@ -19,6 +19,7 @@
       "minecraft:jungle": "2026-02-19 03:42:42 +0000",
       "minecraft:ocean": "2026-02-21 14:39:41 +0000",
       "minecraft:sunflower_plains": "2026-02-21 14:45:01 +0000",
+      "minecraft:meadow": "2026-03-16 16:17:19 +0000",
       "minecraft:savanna": "2026-02-21 15:00:39 +0000",
       "minecraft:windswept_savanna": "2026-02-27 07:23:16 +0000",
       "minecraft:plains": "2026-02-19 03:44:30 +0000"
@@ -3331,6 +3332,36 @@
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2026-03-15 14:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_lightning_rod": "2026-03-16 09:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-03-16 09:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-03-16 09:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-03-16 09:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-03-16 14:21:58 +0000"
     },
     "done": true
   },
