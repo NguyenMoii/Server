@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "uuid": "e5f56b80-436b-3cdf-985d-1b43a3f4d9fb",
+    "name": "Habibi",
+    "created": "2026-03-17 05:47:58 +0000",
+    "source": "Server",
+    "expires": "forever"
+  }
+]
